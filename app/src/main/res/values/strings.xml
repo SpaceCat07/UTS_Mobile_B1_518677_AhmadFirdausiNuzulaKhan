@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_Khan_Mobile_B1</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="keluar">Keluar</string>
+    <string name="judul">Welcome to My App</string>
+    <string name="judul2">Login</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
